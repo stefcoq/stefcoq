@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋,
+I'm just started a web dev career. My github is notb enough provided at the moment...
+It's for soon 
+
 
 <!--
 **stefcoq/stefcoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
