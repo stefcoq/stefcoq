@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm just started a web dev career. My github is notb enough provided at the moment...
+I'm just started a web dev career. My github is not enough provided at the moment...
 It's for soon 
 
 
